@@ -10,13 +10,13 @@ index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "souletter/Blog-With-GitHub-Boilerplate@gh-pages"
+    "repo": "souletter/souletter"
 }
 
 # 站点设置
 site_name = "心作乱象"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2019-07-13T09:04+08:00"
 author = "可视化"
 email = "keshihua@souletter.com"
 author_homepage = "https://www.souletter.cn"
