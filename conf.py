@@ -23,7 +23,7 @@ author_homepage = "https://www.souletter.cn"
 description = "视，听与文字。"
 key_words = ['Maverick', '作品集', 'work', '心作乱象']
 language = 'zh-CN'
-background_img = '${static_prefix}70858371_p0.jpg'
+background_img = '${static_prefix}58103072_p0.jpg'
 external_links = [
     {
         "name": "Maverick",
