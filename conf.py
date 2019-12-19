@@ -68,9 +68,19 @@ social_links = [
 ]
 
 head_addon = r'''
+<meta charset='big5'>
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+<link rel="shortcut icon" href="${static_prefix}logo.ico">
+<meta name="msapplication-TileColor" content="#66CCFF">
+<meta name="theme-color" content="#66CCFF">
+<meta name="baidu-site-verification" content="9BEwwo6Ibg" />
 '''
+
+
+
+
+
 
 footer_addon = ''
 
