@@ -27,7 +27,7 @@ external_links = [
     {
         "name": "Maverick",
         "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "brief": "maverick."
     },
     {
         "name": "心作乱象",
@@ -55,7 +55,7 @@ nav = [
 
 social_links = [
     {
-        "name": "Bililibili",
+        "name": "Bilibili",
         "url": "https://space.bilibili.com/19404630",
         "icon": "gi gi-bili"
     },
