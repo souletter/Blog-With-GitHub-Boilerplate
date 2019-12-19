@@ -14,14 +14,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "心作乱象"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+author = "可视化"
+email = "keshihua@souletter.com"
+author_homepage = "https://www.souletter.cn"
+description = "视，听与文字。"
+key_words = ['Maverick', '作品集', 'work', '心作乱象']
 language = 'zh-CN'
 external_links = [
     {
@@ -30,9 +30,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "心作乱象",
+        "url": "https://www.souletter.com",
+        "brief": "可视化的主页。"
     }
 ]
 nav = [
@@ -55,18 +55,13 @@ nav = [
 
 social_links = [
     {
-        "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
-        "icon": "gi gi-twitter"
-    },
-    {
-        "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
-        "icon": "gi gi-github"
+        "name": "Bililibili",
+        "url": "https://space.bilibili.com/19404630",
+        "icon": "gi gi-bili"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/5994929791",
         "icon": "gi gi-weibo"
     }
 ]
