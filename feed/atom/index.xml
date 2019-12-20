@@ -1,5 +1,83 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>https://work.souletter.com/</id><title>心作乱象</title><updated>2019-12-20T05:41:39.964174+08:06</updated><author><name>可视化</name><email>keshihua@souletter.com</email></author><link href="https://work.souletter.com/" rel="alternate"/><generator uri="http://lkiesow.github.io/python-feedgen" version="0.8.0">python-feedgen</generator><logo>${static_prefix}logo.png</logo><subtitle>视，听与文字。</subtitle><entry><id>https://work.souletter.com/archives/typography/</id><title>Hello World!</title><updated>2019-12-20T05:41:39.964231+00:00</updated><author><name>AlanDecode</name><email>keshihua@souletter.com</email><uri>https://www.souletter.cn</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>https://work.souletter.com/</id><title>心作乱象</title><updated>2019-12-20T07:38:34.976412+08:06</updated><author><name>可视化</name><email>keshihua@souletter.com</email></author><link href="https://work.souletter.com/" rel="alternate"/><generator uri="http://lkiesow.github.io/python-feedgen" version="0.8.0">python-feedgen</generator><logo>${static_prefix}logo.png</logo><subtitle>视，听与文字。</subtitle><entry><id>https://work.souletter.com/archives/meta_music/</id><title>“meta元”元素在音乐中的应用</title><updated>2019-12-20T07:38:34.976535+00:00</updated><author><name>keshihua</name><email>keshihua@souletter.com</email><uri>https://www.souletter.cn</uri></author><content>&lt;h2&gt;meta是什么&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;meta&lt;/em&gt;，元，起源于古希腊词，其一意为“在......后”，表示一种次序，如开会之后，讨论之后，因此也具有表示结束、总结、归纳的意思。其二意为“&lt;strong&gt;本原&lt;/strong&gt;”“某一系统的深层控制规律”的意思，如研究语言的规律、法则的语法学这种关于“关于语言的语言”就是“元语言”，研究文学批评的规律、法则的艺术哲学这种“关于批评的批评就是“元批评”，研究小说自身的语言、结构、规律、法则的“关于小说的小说”就是元小说，同样的道理，所谓“元游戏”，简单的说，就是关于游戏自身的叙述方式、表现形式、规律、法则的游戏。&lt;strong&gt;“元”这个术语被用来探究任意的语言系统和它所明显指涉的世界之间的关系。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;元+A=关于A的A&lt;/h2&gt;
+&lt;p&gt;在步入新世代后，艺术中渐渐出现了&lt;em&gt;meta-xxx&lt;/em&gt;的概念，如元小说（&lt;em&gt;Meta-fiction&lt;/em&gt;）（也翻译为后设小说）
+英国杜伦大学英文系教授帕特里夏·沃芙（&lt;em&gt;Patricia Waugh&lt;/em&gt;）是最早对元小说作出系统阐释的理论家之一。她在其专著《元小说：自我意识小说的理论与实践》中给“元小说”一词下的定义是：“元小说是小说写作的一个术语，它有意识地、系统地使大家关注其作为人工制品的地位，以此提出有关小说和现实之间关系的问题。”
+因为一切小说从本质上来说都是虚构的。让我们信以为真的，是其中基于现实的部分；因此传统小说的作者都力图构建一个真实可信的世界。然而元小说却反其道而行之，不仅没有遮掩“小说是虚构的”这一事实，反而刻意通过某种手法将其暴露出来；其中较为常见的手法就是故意暴露叙述行为或者叙述者本身。如《堂吉诃德》中，作者也时不时地走入小说里，对里面的情节指指点点。元小说《苏菲的世界》前半部分以苏菲的视角正常展开，但在中篇经过哲学家之口，揭开了苏菲本来生活在一本书里的现实。
+而在此之上，发展出的&lt;em&gt;meta-game&lt;/em&gt;（和&lt;em&gt;meta-gaming&lt;/em&gt;）的含义就更多了，因为本文重点并不是谈论元游戏的，所以此处只简单地按照类型进行粗略的分类&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;meta-game&lt;/h2&gt;
+&lt;h3&gt;1. meta-game（关于游戏的游戏）&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;开罗工作室的“&lt;a href="http://www.taptap.com/app/57578"&gt;游戏开发物语&lt;/a&gt;”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class="pswp-item" style="flex: 28.125" data-width="315" data-height="560"&gt;&lt;img src="https://a2.mikusa.cn/2019/07/3144078028.jpg#vwid=315&amp;vhei=560" alt="游戏开发物语" /&gt;&lt;figcaption&gt;游戏开发物语&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;反映多年来游戏的进化历程为内容的游戏作品“&lt;a href="https://www.taptap.com/app/72313"&gt;进化之地&lt;/a&gt;”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class="pswp-item" style="flex: 89.02077151335311" data-width="600" data-height="337"&gt;&lt;img src="https://a2.mikusa.cn/2019/07/2277137592.jpg#vwid=600&amp;vhei=337" alt="进化之地" /&gt;&lt;figcaption&gt;进化之地&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;2. meta-gaming（利用超出游戏以外的因素对游戏本身产生影响的游戏策略）&lt;/h3&gt;
+&lt;p&gt;最容易理解的例子就是&lt;strong&gt;TCG\CCG类游戏&lt;/strong&gt;（如&lt;strong&gt;游戏王&lt;/strong&gt;，&lt;strong&gt;万智牌&lt;/strong&gt;，&lt;strong&gt;炉石传说&lt;/strong&gt;），这类游戏的胜负并不是全都由“场内因素”（抽到什么卡，怎么打出去等等）决定，还受“场外因素”（你的卡组里有什么卡，对方卡组里有什么卡）影响
+除此之外，MOBA类游戏（刀塔，LOL等）排位中的BP（ban禁止，pick选择）机制其实也是是meta-gaming的一种表现
+甚至吃鸡里通过语音让其它玩家枪下留情甚至转为队友，也是一种metagaming&lt;/p&gt;
+&lt;p&gt;&lt;figure class="pswp-item" style="flex: 89.02077151335311" data-width="600" data-height="337"&gt;&lt;img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1563561104907&amp;di=232ab11d797175cf6a33fbb3f320cd37&amp;imgtype=0&amp;src=http%3A%2F%2Fimage.9game.cn%2F2017%2F7%2F24%2F17561038.jpg#vwid=600&amp;vhei=337" alt="游戏王" /&gt;&lt;figcaption&gt;游戏王&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class="pswp-item" style="flex: 89.04109589041096" data-width="650" data-height="365"&gt;&lt;img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1563561150016&amp;di=94650c0f0f99ad7ce5ad111f5dca9109&amp;imgtype=0&amp;src=http%3A%2F%2Fimg4.dwstatic.com%2Fwww%2F1709%2F368821169166%2F1504866099893.jpg#vwid=650&amp;vhei=365" alt="万智牌" /&gt;&lt;figcaption&gt;万智牌&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class="pswp-item" style="flex: 66.66666666666667" data-width="1024" data-height="768"&gt;&lt;img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1563561215084&amp;di=02f895a6342603c513466d3c680ee193&amp;imgtype=0&amp;src=http%3A%2F%2Fi1.17173cdn.com%2F9ih5jd%2FYWxqaGBf%2Fforum%2Ffiles%2F2014%2F03%2F27%2F150802jpvsqs929hhhae9e.jpg#vwid=1024&amp;vhei=768" alt="炉石传说" /&gt;&lt;figcaption&gt;炉石传说&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;3. meta-game（打破“第四面墙”）&lt;/h3&gt;
+&lt;p&gt;虽然观众明知舞台上的演员是活生生的人，但在观众和舞台之间，如同建起一道巨大的隔板，以布幕落下处为界，分出两个世界;而像是这种打破观众和演员之间的屏障，直接与观众交流的做法，就被称为“打破第四面墙”。
+也就是知道自己是游戏中的角色，直接与玩家对话的剧情出现。
+此类有&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“&lt;a href="https://store.steampowered.com/app/221910/The_Stanley_Parable/"&gt;史丹利的寓言（The Stanley Parable）&lt;/a&gt;”&lt;/strong&gt;
+&lt;figure class="pswp-item" style="flex: 88.93229166666667" data-width="1366" data-height="768"&gt;&lt;img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1563561275291&amp;di=71a435f5dfdfdb0ebd8155fd26d30100&amp;imgtype=0&amp;src=http%3A%2F%2Fblob.steamcn.com%2Fforum%2F201411%2F29%2F151249zpfpi88ci5iff8nf.jpg#vwid=1366&amp;vhei=768" alt="史丹利的寓言" /&gt;&lt;figcaption&gt;史丹利的寓言&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“&lt;a href="https://store.steampowered.com/app/391540/Undertale/"&gt;传说之下/地底传说（undertale）&lt;/a&gt;”&lt;/strong&gt;
+&lt;figure class="pswp-item" style="flex: 98.08429118773947" data-width="1024" data-height="522"&gt;&lt;img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1563561352201&amp;di=9b4e0a72cf2e2f549daefc2398cbe1ef&amp;imgtype=0&amp;src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F2754a58fe38f02e4b27531ccf69eab6b0613d35b.jpg#vwid=1024&amp;vhei=522" alt="传说之下" /&gt;&lt;figcaption&gt;传说之下&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;以及之前挺火的在动作类型游戏中融入了一些meta元素的“&lt;a href="https://store.steampowered.com/app/553640/"&gt;艾希（ICEY）&lt;/a&gt;”
+&lt;figure class="pswp-item" style="flex: 78.19905213270142" data-width="1320" data-height="844"&gt;&lt;img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1564156159&amp;di=ddb2b92ac84a0577c0317108d24f422a&amp;imgtype=jpg&amp;er=1&amp;src=http%3A%2F%2Fimg.haote.com%2Fupload%2F201710%2F10%2F1507602946.jpg#vwid=1320&amp;vhei=844" alt="icey" /&gt;&lt;figcaption&gt;icey&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;3+4. meta-game（文字冒险游戏AVG）&lt;/h3&gt;
+&lt;p&gt;如果说要选一个最正宗的“元小说”直系后代的话，那文字冒险游戏（包括但不限于galgame，黄油等）绝对可以说是精神后裔了，其中的文本部分，完全可以说就是元小说的变形。（至于为什么是3+4，是因为个人认为这与打破“第四面墙”有联系，却又有不同之处，）
+此类包括
+&lt;strong&gt;&lt;a href="https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/"&gt;心跳文学俱乐部（DokiDoki Literature Club）&lt;/a&gt;&lt;/strong&gt;
+&lt;figure class="pswp-item" style="flex: 88.92857142857143" data-width="996" data-height="560"&gt;&lt;img src="https://a2.mikusa.cn/2019/07/890639441.jpg#vwid=996&amp;vhei=560" alt="DokiDoki Literature Club" /&gt;&lt;figcaption&gt;DokiDoki Literature Club&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;君与彼女与彼女之恋&lt;/strong&gt;（steam无，可以官网或者百度下载）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;时空轮回（Ever17）&lt;/strong&gt;（同上）&lt;/p&gt;
+&lt;p&gt;（夹带一个私货，橙光平台的“&lt;a href="http://www.66rpg.com/game/243133"&gt;你之恋与真实之恋&lt;/a&gt;”）网页游玩（但是不充钱很难受），也可以去B站看逍遥散人的通关视频&lt;/p&gt;
+&lt;p&gt;说是简单粗略地分类，没想到也写了这么多&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;meta-music&lt;/h2&gt;
+&lt;p&gt;那么，我们能不能从艺术角度上，把meta元素从fiction和game推进到music呢？
+此处仅表达我的一些思考以及推进方向，能不能真正实践我也不知道（毕竟我还没做出来）
+meta-music应该是将主题融入到整个音乐中，而不只是单单表现在词中，应该将，曲式，配器，副旋律，和弦连接等也作为表现主题的载体，多个载体表现多个相同或相反的主题/内容/情绪，互相搭配最终表现成一个协调统一的大主题。&lt;/p&gt;
+&lt;h3&gt;1. meta-music（关于音乐的音乐）&lt;/h3&gt;
+&lt;p&gt;从这个角度出发，我们可以类比推演出，以一首歌作为载体，表现音乐史的变迁，这样的歌，可以称为meta-music，比如开始时对应音乐史的开端，单声部，乐器较少，教会风格的，然后渐渐加入副旋律，对位织体，可以适当转调，然后推进，节奏型方面产生变化......（省略一堆）直至最后甚至可以揉入电子音，无调性，泛调性，以此作结尾。&lt;/p&gt;
+&lt;h3&gt;2. meta-music（超出音乐本身之外的因素对音乐本身造成的影响）&lt;/h3&gt;
+&lt;p&gt;其实应该已经有很多歌是在用这种方法的了，它的特点就是用除了音乐以外的其他东西来对音乐产生影响
+如周杰伦的“半岛铁盒”中最开始的一段（风铃声和对话），严格来说并不是在音乐中（歌词，配曲，曲式等等）但是它确实渲染了一种氛围，使听者更容易沉浸在后面的歌词中。
+又如Panta.Q的“依然”中歌曲部分完后，4分22秒开始的半分多种的钢琴solo，虽然不算在音乐中，但是.......（以下省略一堆分析）
+甚至你可以在表现歌唱者的特性（比如设定里是机器人）时，使用调音软件进行修音，或者直接使用虚拟歌姬的音源，以达到歌唱者的机械感
+（说到调音，突然想到调音如果也算meta-music的话，那大概90%以上的歌都应该算是meta-music了吧233333）&lt;/p&gt;
+&lt;h3&gt;3. meta-music（打破“第四面墙”）&lt;/h3&gt;
+&lt;p&gt;因为音乐的局限性，无法像游戏一样进行交互，所以此种类只能用自说自话的形式表现出meta元素，而这又对词者提出了很高的要求，因此暂时按下不表&lt;/p&gt;
+&lt;h3&gt;3+4. meta-music（音乐互动形式）&lt;/h3&gt;
+&lt;p&gt;上一点说的局限性，其实也并不是完全无法互动，单纯的音乐确实无法互动，但是可以辅以代码，比如用音量的+和-键来选择分支（就有点像声音化的文字冒险游戏AVG，虽然应该算是最正宗的，但是笔者却最不喜欢这种）
+可参考某本解谜小说中根据选项不同而翻到不同页数，看到故事的不同发展方向&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;题外话-让演员坐在身旁&lt;/h2&gt;
+&lt;p&gt;一本名叫“S.”的书（我吹爆），同样是打破读者与书中人物之间的壁垒，却没有使用常用的消除“第四面墙”的方法，而更像是使用让故事发生在观众席上这一方法，作者用meta元素承认了书中故事的虚假，反过来却又因此使得书中笔记更显真实，这种方法或许也可以借鉴。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;题外话-meta的真实性，局限性&lt;/h2&gt;
+&lt;p&gt;其实，不管是小说，还是游戏，甚至是音乐，在欣赏的时候，都会有一个前提，即相信这个故事是真实的，相信当中的人物是真实存在的，但这个前提除非是我们故意去相信，否则是谁也骗不了的，因为很多操作（比如看小说时的翻页，打游戏时的点击启动，按键盘，点鼠标，听音乐时的找歌曲，点击播放按钮，调大调小音量）都在提醒着读者/玩家/听众，这不是真的，这不是真的，所以，所有的小说/游戏/音乐，都是以读者/玩家/听众自愿去相信这个前提，才能被人欣赏的，所以从这里来看，meta元素可以说是“多此一举”了。
+而同时，meta元素也有很大的局限性，它的卓越之处在于第一次见到时的惊艳，缺点在于一旦见多了，它的卓越性就会大大下降。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此文只探讨实验性meta-music的可能性，不保证它的可行性（因为我还没做出来成品）&lt;/strong&gt;
+&lt;strong&gt;此文只探讨实验性meta-music的可能性，不保证它的可行性（因为我还没做出来成品）&lt;/strong&gt;
+&lt;strong&gt;此文只探讨实验性meta-music的可能性，不保证它的可行性（因为我还没做出来成品）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;参考文章：
+&lt;a href="https://www.taptap.com/topic/2106906"&gt;鹿生谈|要元旦了，让我们聊聊元游戏（meta-game）吧！&lt;/a&gt;
+&lt;a href="https://tieba.baidu.com/p/5925761509?red_tag=1648931605"&gt;元游戏梦想论——浅谈何谓元游戏&lt;/a&gt;
+&lt;a href="https://baijiahao.baidu.com/s?id=1594163904306277848&amp;amp;wfr=spider&amp;amp;for=pc"&gt;元游戏 （meta-game）：打破虚拟和现实的界限&lt;/a&gt;
+&lt;a href="https://www.sohu.com/a/119840184_492141"&gt;当游戏遇上"Meta" 被打破的第四面墙 &lt;/a&gt;
+&lt;a href="https://baike.baidu.com/item/%E5%85%83%E5%B0%8F%E8%AF%B4/174959?fr=aladdin"&gt;元小说-百度百科&lt;/a&gt;&lt;/p&gt;
+</content><link href="https://work.souletter.com/archives/meta_music/" rel="alternate"/><published>2019-07-19T23:29:00+08:06</published></entry><entry><id>https://work.souletter.com/archives/typography/</id><title>Hello World!</title><updated>2019-12-20T07:38:34.976478+00:00</updated><author><name>AlanDecode</name><email>keshihua@souletter.com</email><uri>https://www.souletter.cn</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
