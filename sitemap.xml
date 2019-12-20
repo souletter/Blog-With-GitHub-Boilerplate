@@ -6,6 +6,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
 
     <url>
+        <loc>https://work.souletter.com/history/</loc>
+        <lastmod>2019-07-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://work.souletter.com/about/</loc>
         <lastmod>2017-06-28</lastmod>
         <changefreq>always</changefreq>
@@ -28,8 +35,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
-        <loc>https://work.souletter.com/archives/connection/</loc>
-        <lastmod>2019-10-20</lastmod>
+        <loc>https://work.souletter.com/archives/happy-birthday/</loc>
+        <lastmod>2019-09-23</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
@@ -44,6 +51,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://work.souletter.com/archives/connection/</loc>
         <lastmod>2019-07-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://work.souletter.com/archives/1/</loc>
+        <lastmod>2019-07-13</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
