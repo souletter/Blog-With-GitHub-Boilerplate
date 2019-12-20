@@ -59,7 +59,7 @@ social_links = [
     {
         "name": "Bilibili",
         "url": "https://space.bilibili.com/19404630",
-        "icon": "gi gi-bili"
+        "icon": "gi gi-bilibili"
     },
     {
         "name": "Weibo",
