@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Happy birthday to you！
 slug: connection
 date: 2019-10-20 21:51
 status: publish
@@ -14,7 +14,6 @@ excerpt: 给某人的生贺
 ---
 
 <iframe id="spkj" src="https://player.bilibili.com/player.html?aid=68785738&cid=119208968&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
-
 <script type="text/javascript">  
 document.getElementById("spkj").style.height=document.getElementById("spkj").scrollWidth*0.76+"px";
 </script>
