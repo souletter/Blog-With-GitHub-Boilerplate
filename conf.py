@@ -6,6 +6,7 @@
 site_prefix = "https://work.souletter.com/"
 source_dir = "../src/"
 build_dir = "../dist/"
+template = "Galileo"
 index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
@@ -70,7 +71,7 @@ social_links = [
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
-<link rel="shortcut icon" href="${static_prefix}logo.ico?v=yyLyaqbyRG">
+//<link rel="shortcut icon" href="${static_prefix}logo.ico?v=yyLyaqbyRG">
 '''
 
 
