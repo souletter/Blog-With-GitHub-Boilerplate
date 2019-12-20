@@ -4,7 +4,7 @@ title: “meta元”元素在音乐中的应用
 slug: meta_music
 date: 2019-07-19 23:29
 status: publish
-author: keshihua
+author: 可视化
 categories: 
   - Music
 tags:
@@ -25,7 +25,6 @@ excerpt: 由meta fiction，meta game到meta music。
 英国杜伦大学英文系教授帕特里夏·沃芙（*Patricia Waugh*）是最早对元小说作出系统阐释的理论家之一。她在其专著《元小说：自我意识小说的理论与实践》中给“元小说”一词下的定义是：“元小说是小说写作的一个术语，它有意识地、系统地使大家关注其作为人工制品的地位，以此提出有关小说和现实之间关系的问题。”
 因为一切小说从本质上来说都是虚构的。让我们信以为真的，是其中基于现实的部分；因此传统小说的作者都力图构建一个真实可信的世界。然而元小说却反其道而行之，不仅没有遮掩“小说是虚构的”这一事实，反而刻意通过某种手法将其暴露出来；其中较为常见的手法就是故意暴露叙述行为或者叙述者本身。如《堂吉诃德》中，作者也时不时地走入小说里，对里面的情节指指点点。元小说《苏菲的世界》前半部分以苏菲的视角正常展开，但在中篇经过哲学家之口，揭开了苏菲本来生活在一本书里的现实。
 而在此之上，发展出的*meta-game*（和*meta-gaming*）的含义就更多了，因为本文重点并不是谈论元游戏的，所以此处只简单地按照类型进行粗略的分类
-
 
 ----------
 ## meta-game
@@ -119,7 +118,6 @@ meta-music应该是将主题融入到整个音乐中，而不只是单单表现�
 上一点说的局限性，其实也并不是完全无法互动，单纯的音乐确实无法互动，但是可以辅以代码，比如用音量的+和-键来选择分支（就有点像声音化的文字冒险游戏AVG，虽然应该算是最正宗的，但是笔者却最不喜欢这种）
 可参考某本解谜小说中根据选项不同而翻到不同页数，看到故事的不同发展方向
 
-
 ---
 
 
@@ -149,24 +147,24 @@ meta-music应该是将主题融入到整个音乐中，而不只是单单表现�
 
 
 
-  [1]: http://www.taptap.com/app/57578
-  [2]: https://a2.mikusa.cn/2019/07/3144078028.jpg#vwid=315&vhei=560
-  [3]: https://www.taptap.com/app/72313
-  [4]: https://a2.mikusa.cn/2019/07/2277137592.jpg#vwid=600&vhei=337
-  [5]: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563561104907&di=232ab11d797175cf6a33fbb3f320cd37&imgtype=0&src=http%3A%2F%2Fimage.9game.cn%2F2017%2F7%2F24%2F17561038.jpg#vwid=600&vhei=337
-  [6]: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563561150016&di=94650c0f0f99ad7ce5ad111f5dca9109&imgtype=0&src=http%3A%2F%2Fimg4.dwstatic.com%2Fwww%2F1709%2F368821169166%2F1504866099893.jpg#vwid=650&vhei=365
-  [7]: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563561215084&di=02f895a6342603c513466d3c680ee193&imgtype=0&src=http%3A%2F%2Fi1.17173cdn.com%2F9ih5jd%2FYWxqaGBf%2Fforum%2Ffiles%2F2014%2F03%2F27%2F150802jpvsqs929hhhae9e.jpg#vwid=1024&vhei=768
-  [8]: https://store.steampowered.com/app/221910/The_Stanley_Parable/
-  [9]: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563561275291&di=71a435f5dfdfdb0ebd8155fd26d30100&imgtype=0&src=http%3A%2F%2Fblob.steamcn.com%2Fforum%2F201411%2F29%2F151249zpfpi88ci5iff8nf.jpg#vwid=1366&vhei=768
-  [10]: https://store.steampowered.com/app/391540/Undertale/
-  [11]: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563561352201&di=9b4e0a72cf2e2f549daefc2398cbe1ef&imgtype=0&src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F2754a58fe38f02e4b27531ccf69eab6b0613d35b.jpg#vwid=1024&vhei=522
-  [12]: https://store.steampowered.com/app/553640/
-  [13]: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1564156159&di=ddb2b92ac84a0577c0317108d24f422a&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.haote.com%2Fupload%2F201710%2F10%2F1507602946.jpg#vwid=1320&vhei=844
-  [14]: https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/
-  [15]: https://a2.mikusa.cn/2019/07/890639441.jpg#vwid=996&vhei=560
-  [16]: http://www.66rpg.com/game/243133
-  [17]: https://www.taptap.com/topic/2106906
-  [18]: https://tieba.baidu.com/p/5925761509?red_tag=1648931605
-  [19]: https://baijiahao.baidu.com/s?id=1594163904306277848&wfr=spider&for=pc
-  [20]: https://baike.baidu.com/item/%E5%85%83%E5%B0%8F%E8%AF%B4/174959?fr=aladdin
-  [21]: https://www.sohu.com/a/119840184_492141
+[1]: http://www.taptap.com/app/57578
+[2]: https://a2.mikusa.cn/2019/07/3144078028.jpg#vwid=315&vhei=560
+[3]: https://www.taptap.com/app/72313
+[4]: https://a2.mikusa.cn/2019/07/2277137592.jpg#vwid=600&vhei=337
+[5]: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563561104907&di=232ab11d797175cf6a33fbb3f320cd37&imgtype=0&src=http%3A%2F%2Fimage.9game.cn%2F2017%2F7%2F24%2F17561038.jpg#vwid=600&vhei=337
+[6]: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563561150016&di=94650c0f0f99ad7ce5ad111f5dca9109&imgtype=0&src=http%3A%2F%2Fimg4.dwstatic.com%2Fwww%2F1709%2F368821169166%2F1504866099893.jpg#vwid=650&vhei=365
+[7]: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563561215084&di=02f895a6342603c513466d3c680ee193&imgtype=0&src=http%3A%2F%2Fi1.17173cdn.com%2F9ih5jd%2FYWxqaGBf%2Fforum%2Ffiles%2F2014%2F03%2F27%2F150802jpvsqs929hhhae9e.jpg#vwid=1024&vhei=768
+[8]: https://store.steampowered.com/app/221910/The_Stanley_Parable/
+[9]: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563561275291&di=71a435f5dfdfdb0ebd8155fd26d30100&imgtype=0&src=http%3A%2F%2Fblob.steamcn.com%2Fforum%2F201411%2F29%2F151249zpfpi88ci5iff8nf.jpg#vwid=1366&vhei=768
+[10]: https://store.steampowered.com/app/391540/Undertale/
+[11]: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563561352201&di=9b4e0a72cf2e2f549daefc2398cbe1ef&imgtype=0&src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F2754a58fe38f02e4b27531ccf69eab6b0613d35b.jpg#vwid=1024&vhei=522
+[12]: https://store.steampowered.com/app/553640/
+[13]: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1564156159&di=ddb2b92ac84a0577c0317108d24f422a&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.haote.com%2Fupload%2F201710%2F10%2F1507602946.jpg#vwid=1320&vhei=844
+[14]: https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/
+[15]: https://a2.mikusa.cn/2019/07/890639441.jpg#vwid=996&vhei=560
+[16]: http://www.66rpg.com/game/243133
+[17]: https://www.taptap.com/topic/2106906
+[18]: https://tieba.baidu.com/p/5925761509?red_tag=1648931605
+[19]: https://baijiahao.baidu.com/s?id=1594163904306277848&wfr=spider&for=pc
+[20]: https://baike.baidu.com/item/%E5%85%83%E5%B0%8F%E8%AF%B4/174959?fr=aladdin
+[21]: https://www.sohu.com/a/119840184_492141
