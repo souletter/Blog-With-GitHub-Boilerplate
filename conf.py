@@ -71,7 +71,7 @@ social_links = [
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
-//<link rel="shortcut icon" href="${static_prefix}logo.ico?v=yyLyaqbyRG">
+<link rel="mask-icon" href="${static_prefix}logo.ico?v=yyLyaqbyRG" color="#505050">
 '''
 
 
