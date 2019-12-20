@@ -72,6 +72,10 @@ head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <meta name="msapplication-TileColor" content="#66CCFF">
 <meta name="theme-color" content="#66CCFF">
+<meta name="msapplication-square310x310logo" content="${static_prefix}logo.png">
+<link rel="apple-touch-icon" href="${static_prefix}logo.ico?v=yyLyaqbyRG">
+
+<link rel="apple-touch-icon" href="${static_prefix}logo.ico?v=yyLyaqbyRG">
 <link rel="shortcut icon" href="${static_prefix}logo.ico?v=yyLyaqbyRG">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
 '''
