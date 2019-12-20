@@ -72,9 +72,6 @@ head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
 <link rel="shortcut icon" href="${static_prefix}logo.ico?v=yyLyaqbyRG">
-<meta name="msapplication-TileColor" content="#000000">
-<meta name="theme-color" content="#000000">
-<meta name="baidu-site-verification" content="9BEwwo6Ibg" />
 '''
 
 
