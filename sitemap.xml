@@ -28,6 +28,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>https://work.souletter.com/archives/connection/</loc>
+        <lastmod>2019-10-20</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>https://work.souletter.com/archives/meta_music/</loc>
         <lastmod>2019-07-19</lastmod>
         <changefreq>always</changefreq>
