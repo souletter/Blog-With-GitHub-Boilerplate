@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: big5 -*-
 """博客构建配置文件
 """
 
@@ -68,7 +68,6 @@ social_links = [
 ]
 
 head_addon = r'''
-<meta charset='big5'>
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
 <link rel="shortcut icon" href="${static_prefix}logo.ico?v=yyLyaqbyRG">
