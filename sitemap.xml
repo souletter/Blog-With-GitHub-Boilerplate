@@ -6,7 +6,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
 
     <url>
-        <loc>/about/</loc>
+        <loc>https://work.souletter.com/about/</loc>
         <lastmod>2017-06-28</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
@@ -14,7 +14,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
-        <loc>/archives/typography/</loc>
+        <loc>https://work.souletter.com/archives/typography/</loc>
         <lastmod>2019-12-18</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
