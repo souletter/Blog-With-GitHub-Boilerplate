@@ -3,14 +3,14 @@
 """
 
 # For Maverick
-site_prefix = "/"
+site_prefix = "https://work.souletter.com/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "souletter/souletter"
+    "repo": "souletter/souletter@gh-pages"
 }
 
 # 站点设置
