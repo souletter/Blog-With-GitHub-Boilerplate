@@ -48,6 +48,11 @@ nav = [
         "url": "${site_prefix}archives/",
         "target": "_self"
     },
+	    {
+        "name": "大事年纪",
+        "url": "${site_prefix}history/",
+        "target": "_self"
+    },
     {
         "name": "关于",
         "url": "${site_prefix}about/",
