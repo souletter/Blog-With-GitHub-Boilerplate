@@ -15,13 +15,13 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "心作乱象"
+site_name = "视，听与文字。"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-07-13T09:04+08:00"
 author = "可视化"
 email = "keshihua@souletter.com"
 author_homepage = "https://www.souletter.cn"
-description = "视，听与文字。"
+description = "我偏爱悲剧。"
 key_words = ['Maverick', '作品集', 'work', '心作乱象']
 language = 'zh-CN'
 background_img = '${static_prefix}58103072_p0.jpg'
