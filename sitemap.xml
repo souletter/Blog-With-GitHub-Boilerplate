@@ -21,6 +21,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>https://work.souletter.com/archives/20210511/</loc>
+        <lastmod>2021-05-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://work.souletter.com/archives/half_cadence/</loc>
+        <lastmod>2021-05-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://work.souletter.com/archives/software/</loc>
+        <lastmod>2021-03-09</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://work.souletter.com/archives/20200511/</loc>
+        <lastmod>2020-05-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>https://work.souletter.com/archives/pv39/</loc>
         <lastmod>2020-03-09</lastmod>
         <changefreq>always</changefreq>
