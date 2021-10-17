@@ -4,7 +4,7 @@ title: 常用软件记录ver2.0
 slug: software
 date: 2021-03-09 00:00
 status: publish
-author: 可视化
+author: 娲
 categories: 
   - Photograph
 tags:

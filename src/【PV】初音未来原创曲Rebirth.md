@@ -4,7 +4,7 @@ title: 【PV】初音未来原创曲Rebirth
 slug: pv39
 date: 2020-03-09 00:00
 status: publish
-author: 可视化
+author: 娲
 categories: 
   - Movie
 tags:
